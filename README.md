@@ -1,1 +1,1 @@
-# opengl-triangle-example
+# OpenGL-Music-Visualizer
